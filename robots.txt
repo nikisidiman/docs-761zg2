@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-dwbd27.pulaucuanwin.sbs/sitemap.xml
